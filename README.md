@@ -11,8 +11,7 @@ In this simulation, we try to identify the annual medical expenses that lead to 
 
 ## Usage
 
-# Roadmap
- <ul>
+<ul>
   <li>First visit https://www.priminfo.admin.ch/fr/praemien to get the cheapest *Prime* for the two *Franchise*</li>
   <li>Add these values to the variables PR300 and PR2500</li>
   <li>Run the code</li>
@@ -23,7 +22,7 @@ The generated curves shows, the reimboursement you got chossing the *Franchise* 
 The plot example below show the case when the diffenrece between the two *Franchise* is 100 CHF. 
 
 <img src="output.png"
-     alt="gui" width="600" height="350"
+     alt="gui" width="500" height="350"
       style="float: center"/>
 
 
