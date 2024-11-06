@@ -22,7 +22,7 @@ The generated curves shows, the reimboursement you got chossing the *Franchise* 
 
 The plot example below show the case when the diffenrece between the two *Franchise* is 100 CHF. 
 
-<img src="screenshot_app.png"
+<img src="output.png"
      alt="gui" width="600" height="350"
       style="float: center"/>
 
